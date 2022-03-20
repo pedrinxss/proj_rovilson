@@ -12,7 +12,7 @@ namespace WebSite_FormValidacao.Models
         public string TipoProjeto { get; set; }
 
         [Required(ErrorMessage = "Informe o CEP.")]
-        [RegularExpression(@"^\d{8}$|^\d{5}-\d{3}$", ErrorMessage = "o Código Postal deverá estar no formato 00000-000 ou 00000000")]
+        [RegularExpression(@"^\d{8}$|^\d{5}-\d{3}$", ErrorMessage= "o Código Postal deverá estar no formato 00000-000 ou 00000000")]
         [DisplayName("CEP")]
         public string Cep { get; set; }
 

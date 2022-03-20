@@ -21,4 +21,38 @@ input,
 select,
 textarea {
     max-width: 280px;
+    width:280px;
+    height:30px;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+fieldset {
+    padding: 1em;
+    font: 80%/1 sans-serif;
+    text-align:center;
+}
+
+label {
+    width: 25%;
+    margin-right: 0.5em;
+    padding-top: 0.2em;
+    text-align: right;
+    font-weight: bold;
+    text-align: center;
+    font-size:15px;
+}
+
+legend {
+    text-align:center;
+    width: 450px;
+    background: #648E35;
+    border: 1px solid #cccccc;
+    border-right-color: #999999;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom-color: #999999;
+    padding: 4px 8px;
 }
