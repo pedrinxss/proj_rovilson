@@ -29,7 +29,7 @@ namespace WebSite_FormValidacao.Controllers
         {
             try
             {
-                return RedirectToAction("Obrigado");
+                return RedirectToAction("Obrigado"); 
             }
             catch
             {
