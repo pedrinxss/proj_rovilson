@@ -1,7 +1,7 @@
-﻿#Projeto feito para Aula de ASP.NET 
+﻿# Projeto feito para Aula de ASP.NET 
 
-    Trata-se de um **formulário** que anota o quê o cliente deseja em um orçamento
+    Trata-se de um __formulário__ que anota o quê o cliente deseja em um orçamento
 
 
 ![aviso](img/warning 2.png)
-**PROJETO EM ANDAMENTO** 
+__PROJETO EM ANDAMENTO__
